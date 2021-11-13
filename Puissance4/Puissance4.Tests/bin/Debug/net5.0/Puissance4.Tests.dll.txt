@@ -1,0 +1,5 @@
+Puissance4.Tests.GrilleTests.TestInitPile
+Puissance4.Tests.GrilleTests.TestPlaceChip
+Puissance4.Tests.PileTests.TestAddChip
+Puissance4.Tests.PileTests.TestFull
+Puissance4.Tests.PileTests.TestPlace
